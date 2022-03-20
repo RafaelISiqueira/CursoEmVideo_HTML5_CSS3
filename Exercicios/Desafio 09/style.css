@@ -1,0 +1,19 @@
+.center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    font-style: arial; color: white;
+}
+a:visited,a {
+    color: white;
+    text-decoration: none;
+}
+#borda {
+    color: white;
+    border-style: dashed;
+
+    }
